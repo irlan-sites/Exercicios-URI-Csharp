@@ -1,0 +1,14 @@
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Exercícios\URI\1008\1008\bin\Debug\net8.0\1008.exe
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Exercícios\URI\1008\1008\bin\Debug\net8.0\1008.deps.json
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Exercícios\URI\1008\1008\bin\Debug\net8.0\1008.runtimeconfig.json
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Exercícios\URI\1008\1008\bin\Debug\net8.0\1008.dll
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Exercícios\URI\1008\1008\bin\Debug\net8.0\1008.pdb
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Exercícios\URI\1008\1008\obj\Debug\net8.0\1008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Exercícios\URI\1008\1008\obj\Debug\net8.0\1008.AssemblyInfoInputs.cache
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Exercícios\URI\1008\1008\obj\Debug\net8.0\1008.AssemblyInfo.cs
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Exercícios\URI\1008\1008\obj\Debug\net8.0\1008.csproj.CoreCompileInputs.cache
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Exercícios\URI\1008\1008\obj\Debug\net8.0\1008.dll
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Exercícios\URI\1008\1008\obj\Debug\net8.0\refint\1008.dll
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Exercícios\URI\1008\1008\obj\Debug\net8.0\1008.pdb
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Exercícios\URI\1008\1008\obj\Debug\net8.0\1008.genruntimeconfig.cache
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Exercícios\URI\1008\1008\obj\Debug\net8.0\ref\1008.dll
