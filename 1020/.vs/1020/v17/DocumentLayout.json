@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Irlan\\Documents\\PROGRAMACAO\\Curso de C#\\Exerc\u00EDcios\\URI\\1020\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A65D7C92-0D67-4EE1-9911-ECF9FEB0500A}|1020\\1020.csproj|c:\\users\\irlan\\documents\\programacao\\curso de c#\\exerc\u00EDcios\\uri\\1020\\1020\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65D7C92-0D67-4EE1-9911-ECF9FEB0500A}|1020\\1020.csproj|solutionrelative:1020\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Irlan\\Documents\\PROGRAMACAO\\Curso de C#\\Exerc\u00EDcios\\URI\\1020\\1020\\Program.cs",
+              "RelativeDocumentMoniker": "1020\\Program.cs",
+              "ToolTip": "C:\\Users\\Irlan\\Documents\\PROGRAMACAO\\Curso de C#\\Exerc\u00EDcios\\URI\\1020\\1020\\Program.cs",
+              "RelativeToolTip": "1020\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T05:20:00.872Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

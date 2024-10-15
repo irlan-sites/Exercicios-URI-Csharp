@@ -1,0 +1,15 @@
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\ConversaoTempoEx004\ConversaoTempoEx004\bin\Debug\net8.0\ConversaoTempoEx004.exe
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\ConversaoTempoEx004\ConversaoTempoEx004\bin\Debug\net8.0\ConversaoTempoEx004.deps.json
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\ConversaoTempoEx004\ConversaoTempoEx004\bin\Debug\net8.0\ConversaoTempoEx004.runtimeconfig.json
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\ConversaoTempoEx004\ConversaoTempoEx004\bin\Debug\net8.0\ConversaoTempoEx004.dll
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\ConversaoTempoEx004\ConversaoTempoEx004\bin\Debug\net8.0\ConversaoTempoEx004.pdb
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\ConversaoTempoEx004\ConversaoTempoEx004\obj\Debug\net8.0\ConversaoTempoEx004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\ConversaoTempoEx004\ConversaoTempoEx004\obj\Debug\net8.0\ConversaoTempoEx004.AssemblyInfoInputs.cache
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\ConversaoTempoEx004\ConversaoTempoEx004\obj\Debug\net8.0\ConversaoTempoEx004.AssemblyInfo.cs
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\ConversaoTempoEx004\ConversaoTempoEx004\obj\Debug\net8.0\ConversaoTempoEx004.csproj.CoreCompileInputs.cache
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\ConversaoTempoEx004\ConversaoTempoEx004\obj\Debug\net8.0\ConversaoTempoEx004.sourcelink.json
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\ConversaoTempoEx004\ConversaoTempoEx004\obj\Debug\net8.0\ConversaoTempoEx004.dll
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\ConversaoTempoEx004\ConversaoTempoEx004\obj\Debug\net8.0\refint\ConversaoTempoEx004.dll
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\ConversaoTempoEx004\ConversaoTempoEx004\obj\Debug\net8.0\ConversaoTempoEx004.pdb
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\ConversaoTempoEx004\ConversaoTempoEx004\obj\Debug\net8.0\ConversaoTempoEx004.genruntimeconfig.cache
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\ConversaoTempoEx004\ConversaoTempoEx004\obj\Debug\net8.0\ref\ConversaoTempoEx004.dll
